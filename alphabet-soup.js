@@ -1,7 +1,3 @@
-/*
-  Trier cette chaine par ordre alphabetique
-*/
-
 const alphabetSoup = (str) => {
   // str.sort(); // str.sort is not a function
 
